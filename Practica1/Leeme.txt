@@ -1,0 +1,18 @@
+Alumno: Jesús Manuel García Palma
+Grupo: C1
+
+Pasos para la ejeucion:
+
+1. make
+2. practica1 
+
+Opciones por teclado
+
+1.Carga tetraedro
+2.Carga cubo
+3.Carga piramide
+P.Modo puntos
+A.Modo alambre
+S.Modo sólido
+J.Modo ajedréz (no se ejecuta bien)
+Q.Salir
