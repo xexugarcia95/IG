@@ -1,0 +1,25 @@
+Alumno: Jesús Manuel García Palma
+Grupo: C1
+
+Pasos para la ejeucion:
+
+1. make
+2. practica3 
+
+Se ha añadido al make el .o de modelo_jerarquico y se han eliminado aquellos que no utilizo en la Práctica
+
+Opciones por teclado
+
+1.Carga PLY
+2.Carga Revolución
+3.Carga Modelo Jeráquico
+P.Modo puntos
+L.Modo alambre
+S.Modo sólido
+A.Modo ajedréz 
+5.Modo puntos y sólido
+-----------------------
+z/q: Primer grado de libertad --> Puerta
+c/v: Segundo grado de libertad --> Cajón derecho
+b/b: Tercer grado de libertad --> Cajón izquierdo
+Q.Salir
